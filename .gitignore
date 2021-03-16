@@ -5,17 +5,11 @@
 /[Bb]uilds/
 /[Aa]uto[Bb]uild/
 
-.vscode/
-.vs/
-
-*.csproj
-*.sln
 *.suo
 *.tmp
 *.userprefs
 *.app
 .idea/
-*.VC.*
 .DS_Store
 *~
 *.swp
