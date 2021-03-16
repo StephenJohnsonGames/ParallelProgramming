@@ -1,0 +1,2 @@
+D:\Repos\ParallelProgramming\x64\Debug\gldemo.exe
+D:\Repos\ParallelProgramming\x64\Debug\gldemo.pdb
