@@ -1,0 +1,7 @@
+Parallel Programming README
+
+- This project was made to demonstrate simple parallel programming execution using the Game of Life.
+
+- the main block of execution code has an instance for single-thread and multi-thread.
+
+- The visualization is done using OpenGL and multi-threading by Intel's Threading Building Blocks (TBB).
