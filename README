@@ -6,3 +6,9 @@ Parallel Programming README
 - the main block of execution code has an instance for single-thread and multi-thread.
 
 - The visualization is done using OpenGL and multi-threading by Intel's Threading Building Blocks (TBB).
+
+Parallel Profiling Data
+------------------------------
+
+- If you're interested in how the code performs under various conditions, please check out the Parallel Profiling Data Doc in the repo.
+- It has a full breakdown of runtimes between different hardware examples, with a number of different tests for each one.
